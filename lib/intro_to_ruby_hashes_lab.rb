@@ -7,7 +7,7 @@ end
 def my_hash
   # return a valid hash with any key/value pair of your choice
   mash = {
-    :hi : "goodbye"
+    hi : "goodbye"
   }
   mash
 end
@@ -15,7 +15,7 @@ end
 def pioneer
   # return a hash with a key of :name and a corresponding value of 'Grace Hopper'
   pio = {
-    :name : "Grace Hopper"
+    name : "Grace Hopper"
   }
   pio
 end
